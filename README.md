@@ -1,6 +1,6 @@
-# Satellite_Image_Analysis
+# Satellite Image Analysis
 
-Python3 codes for performing Satellite image analysis.
+Python3 codes for performing _Satellite image analysis_ and _Land Cover Classification using Deep Learning_.
 
 
 ## Packages needed-
@@ -8,6 +8,7 @@ Python3 codes for performing Satellite image analysis.
 - earthpy
 - rasterio
 - plotly
+- TensorFlow2.X
 
 
 ### Satellite Data:
