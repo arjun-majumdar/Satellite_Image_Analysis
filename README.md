@@ -15,5 +15,6 @@ Python3 codes for performing _Satellite image analysis_ and _Land Cover Classifi
 
 The following datasets are used-
 
-- Sentinel-2 satellite data which can be downloaded from [https://scihub.copernicus.eu/dhus/#/home](source)
-- AVIRIS (Airborne Visible/Infrared Imaging Spectrometer) data whch can be downloaded from [https://aviris.jpl.nasa.gov/](source)
+- Sentinel-2 satellite data [https://scihub.copernicus.eu/dhus/#/home](source)
+- AVIRIS (Airborne Visible/Infrared Imaging Spectrometer) data [https://aviris.jpl.nasa.gov/](source)
+-  Hyperspectral Remote Sensing Scenes - Grupo de Inteligencia Computacional (GIC) data [http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes](source)
